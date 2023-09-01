@@ -1,0 +1,24 @@
+{
+    "usersdata":[
+        {
+            "id":2,
+            "name":"Aashika",
+            "role":"Manager",
+            "email":"atul@gmail.com",
+            "city":"Mumbai",
+            "gender":"female",
+            "favLang":"Java"
+
+        },
+        {
+            "id":3,
+            "name":"Aman",
+            "role":"Manager1",
+            "email":"aman@gmail.com",
+            "city":"Pune",
+            "gender":"Male",
+            "favLang":"C++"
+
+        }
+    ]
+}
